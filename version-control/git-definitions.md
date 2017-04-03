@@ -9,4 +9,4 @@ A branch provides a copy of your project to work on. You could switch between br
 * What is a commit? What makes a good commit message?
 The commit message describes a save point for future reference. A good commit message is detailed and states what was changed since the last commit. 
 * What is a merge conflict?
-Sometimes you get merge conflicts when merging or pulling from a branch. Git will then tell you something "Conflict". It also tell you to fix the conflicts and then to commit the result. 
+Sometimes you get merge conflicts when merging or pulling from a branch. Git will then tell you something "Conflict". It also tell you to fix the conflicts and then to commit the ?????? 
